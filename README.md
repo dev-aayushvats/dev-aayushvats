@@ -20,7 +20,7 @@
 
 ### 🧠 Currently Building
 
-- 🌍 **CSE Dept Website**: SEO-friendly static site using **MERN**, **CI/CD pipelines**, and **Dockerized setup**
+- 🌍 **CSE Dept Website**: SEO-friendly site with CMS using **MERN**, **CI/CD pipelines**, and **Dockerized setup**
 
 ---
 
