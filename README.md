@@ -88,10 +88,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-aayushvats&bg_color=1a1a1a&color=00ffe1&line=00ffe1&point=0affd1&area=true&area_color=0d1117&hide_border=true" alt="Aayush's GitHub activity graph"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dev-aayushvats&theme=tokyonight_duo&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
-
+--->
 ---
 <!---
 ### 📊 GitHub Heatmap
