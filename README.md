@@ -7,7 +7,7 @@
 
 ### 🌟 About Me
 
-- 🎓 B.Tech CSE @ **IIT Dharwad** | CGPA: 8.32  
+- 🎓 B.Tech CSE @ **IIT Dharwad** | CGPA: 8.27  
 - 💡 Developer with a knack for **Web, Mobile & Distributed Systems**  
 - 🚧 Currently exploring: **CI/CD pipelines**, **Docker**, and **Kubernetes**
 - 💬 Talk to me about: React, Node.js, Networking, DevOps, or anything fun!
